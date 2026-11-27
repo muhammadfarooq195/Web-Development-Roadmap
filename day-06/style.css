@@ -1,0 +1,82 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #1e293b;
+  background-color: #f8fafc;
+}
+
+#main-header {
+  background-color: #0f172a;
+  color: #ffffff;
+}
+
+.brand-name {
+  font-size: 32px;
+  color: #2dd4bf;
+}
+
+.tagline {
+  font-size: 15px;
+  color: #cbd5e1;
+}
+
+nav a:link,
+nav a:visited {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover,
+nav a:focus {
+  color: #2dd4bf;
+  text-decoration: underline;
+}
+
+h2 {
+  font-size: 26px;
+  color: #0f172a;
+}
+
+h3 {
+  font-size: 20px;
+  color: #0f766e;
+}
+
+.service-section {
+  background-color: #ffffff;
+}
+
+.cta-link:link {
+  color: #0f766e;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.cta-link:visited {
+  color: #115e59;
+}
+
+.cta-link:hover,
+.cta-link:focus {
+  color: #0d9488;
+  text-decoration: underline;
+}
+
+#main-footer {
+  background-color: #0f172a;
+  color: #cbd5e1;
+  font-size: 14px;
+}
+
+#main-footer a:link,
+#main-footer a:visited {
+  color: #2dd4bf;
+  text-decoration: none;
+}
+
+#main-footer a:hover,
+#main-footer a:focus {
+  text-decoration: underline;
+}
